@@ -1,0 +1,4 @@
+All of the above.
+.MID
+.WAV
+.MP3

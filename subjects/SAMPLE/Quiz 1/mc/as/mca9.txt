@@ -1,0 +1,6 @@
+tfcs.txt
+tfas.txt
+mca7.txt
+MCA7.txt
+tfqs.txt
+TFqs.txt

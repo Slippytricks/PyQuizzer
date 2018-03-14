@@ -1,0 +1,4 @@
+A finite series of instructions used to solve a problem.
+A general idea of how something should be done.
+A very loose set of instructions used to solve a problem.
+A set of instructions used to solve only one specific problem.

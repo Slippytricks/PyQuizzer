@@ -1,0 +1,4 @@
+Tells which keys were pressed down on that frame.
+Returns currently pressed down key.
+Retrieves the keys pressed down on that frame.
+Can be used by itself to retrieve and return keys pressed on that frame.

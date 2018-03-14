@@ -1,0 +1,4 @@
+A local variable that is assigned the argument passed when the function is called.
+The variable a function returns.
+The same thing as an argument.
+The part of a function the creates the variables.

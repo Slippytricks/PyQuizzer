@@ -1,0 +1,4 @@
+Why isn't my program working?
+Tell them the error recieved.
+Tell them the line the error is in.
+Explain what you have already tried.

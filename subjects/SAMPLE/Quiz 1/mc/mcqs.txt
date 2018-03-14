@@ -1,0 +1,9 @@
+This is the first sample MC question. Do you think there are more?
+All MCanswer files begin with mca followed by:
+What would name of the answer file be for MC question seven(7)?
+How many possible fake answers can you have for a MC question? How many print?
+What is the recommended question/answer/line maximum character length?
+T/F questions and answers have what in common?
+If one set of questions has more questions than the other, what will happen?
+An easy way to create all the necessary content to add a subject to study is:
+The T/F file that should never be changed because it is not the answers file:

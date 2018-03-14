@@ -1,0 +1,4 @@
+Combining two or more strings.
+Splitting two or more strings.
+Combining two variables.
+Combining two or more things in programming.

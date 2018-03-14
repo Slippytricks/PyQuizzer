@@ -1,0 +1,5 @@
+Questions will be asked from the larger set until the sets are even.
+Only questions from the larger set will be asked.
+Only questions from the smaller set will be asked.
+Only T/F questions will be asked.
+Only MC questions will be asked.

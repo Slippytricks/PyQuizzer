@@ -1,0 +1,13 @@
+Type each T/F question on it's own line
+Answers to T/F questions must be on the same line(in file) as the question
+Never change the tfcs.txt file
+Keep note of question number
+This is question 5
+This is q 6
+The line the question is on is the same as the line the answer is on(tfas.txt)
+This answer to this q is on line 8 of the tfas.txt file
+This is q 9
+Leave one blank line at the end of each file
+Adding questions to both MC and TF files is exactly the same
+Answers to each MCquestion are on separate files, one answer file per question
+Every single one of these T/F questions will be True

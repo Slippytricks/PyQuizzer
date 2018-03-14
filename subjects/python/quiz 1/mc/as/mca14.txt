@@ -1,0 +1,4 @@
+All of the above.
+If the argument passed contains any non-letter characters return False
+If the argument passed contains only letter characters return True
+If the argument passed was 'Hello World.txt' isalpha() would return True

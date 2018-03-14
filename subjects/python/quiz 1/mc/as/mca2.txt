@@ -1,0 +1,4 @@
+All of the above.
+Store values used for later.
+To hold blocks of code.
+Only storing numbers.

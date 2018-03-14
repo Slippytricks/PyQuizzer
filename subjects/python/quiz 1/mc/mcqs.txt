@@ -1,0 +1,21 @@
+What is the worst way to ask for help on you program?
+What are variables used for?
+What is concatenation?
+What statement is used to leave loops early?
+To print to the screen without a new line character you would use what:
+What is a parameter?
+Which of the following are possible errors you might get while coding?
+What is a flow chart?
+What would be the output be: HelloWorld.upper().lower()
+What is an algorithm?
+What datatype can random.shuffle() method be used with?
+Cartesian coordinates use what for both x and y axis?
+What does the sys.exit() method do?
+What does isalpha() method return?
+What does the bool() function do?
+Which two ways can AI for in-book games be obtained?
+The pygame.draw class can be used to call which methods?
+Why should you avoid changing a list while iterating over it?
+The KEYDOWN event type:
+Which sound formats does pygame support?
+Which object in pygame.time utilizes a tick() method?

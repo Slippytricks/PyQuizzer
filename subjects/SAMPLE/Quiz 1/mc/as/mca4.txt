@@ -1,0 +1,6 @@
+No limit as long as the answer is on line 1. Three print with real answer.
+Three fake answers. Three print with real answer.
+Four fake answers. Four print.
+Five fake answers. Five print with real answer.
+Any multiple of three. Prints any of the three multiples.
+Any even number. Prints only odd lines.

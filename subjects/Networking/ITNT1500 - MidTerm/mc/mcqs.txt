@@ -1,0 +1,9 @@
+Which of the following is a link-state routing protocol that uses the metric of cost
+What is the name of the address that is used by a switch to identify specific devices
+Which of the following layers of the OSI reference model is primarily concerned with forwarding data based on logical addresses
+Which of the following transport layer protocols is a connection-oriented protocol that provides reliable transport between two communicating hosts
+Which approach to bandwidth usage consumes all the available frequencies on a medium to transmit data
+What is the most common connector that is used with UTP cabling carrying Ethernet traffic
+Which type of fiber-optic cabling only allows an individual light path through it
+What type of IP address is 172.16.2.2
+What is the name of the specification that indicates the frequencies that are dedicated for data transmission over cable lines

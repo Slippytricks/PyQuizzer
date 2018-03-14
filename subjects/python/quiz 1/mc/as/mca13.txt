@@ -1,0 +1,4 @@
+Causes the program to terminate.
+Exits the current loop.
+If the current function running is named sys, it will exit that function.
+Terminates the current function and returns false.

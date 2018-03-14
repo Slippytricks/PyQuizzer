@@ -1,0 +1,2 @@
+A demarc is the point in a telephone network where the maintenance responsibility passes from a telephone company to the subscriber (unless the subscriber has purchased inside wiring maintenance).
+A service level agreement (SLA) is used to specify the specific performance metrics (for example, available bandwidth and maximum delay) that are guaranteed for a service over a certain percentage of time.

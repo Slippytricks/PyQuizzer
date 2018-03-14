@@ -1,0 +1,4 @@
+Python can lose track of what the next value should be due to changing list size.
+Nothing will happen.
+Python could create an extra list.
+Python will stop after the edit is made.

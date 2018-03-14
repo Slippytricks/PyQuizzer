@@ -1,0 +1,4 @@
+Returns the boolean value form of the value passed to it.
+Turns the argument into a boolean value.
+Checks if the argument passed is boolean.
+Returns argument and boolean form of argument passed to it.

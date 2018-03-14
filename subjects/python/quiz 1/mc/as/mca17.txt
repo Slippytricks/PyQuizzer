@@ -1,0 +1,10 @@
+All of the above.
+line()
+circle()
+rect()
+polygon()
+elipse()
+arc()
+lines()
+aaline()
+aalines()

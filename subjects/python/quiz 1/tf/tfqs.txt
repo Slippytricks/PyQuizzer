@@ -1,0 +1,21 @@
+IDLE stands for Interactive DeveLopment Encoder
+x = 7 is an example of an assignment statement
+The print() function is used to display text on the screen
+The while loop allows you to repeat code until a condition is met
+Strings must always be in single quotes
+A flow chart can aid in designing a program
+To make the debugger appear, go to debugger in the debug menu
+Making a flow chart can speed up the process of writing code
+List indicies start at 1
+Dictionary indicies can only be strings
+When creating a game, all situations don't really have to be considered
+x = x + 1 is the same as x += 1
+Grid coordinates are a good way to make a map in a game
+isnumber() method checks a string solely for numbers and returns T/F
+A secret code system is called a cipher
+ASCII drawing can be used instead of graphics for simple games
+AI can be used to make your game easier or more difficult
+pygame.init() must be called by all games that use pygame
+Collision detection is when your program collides with another program
+A sprite is a name for a 3d image that is used as a background
+The pygame.Fullscreen constant makes your game use the entire screen

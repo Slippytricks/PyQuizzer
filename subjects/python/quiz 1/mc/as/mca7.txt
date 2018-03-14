@@ -1,0 +1,6 @@
+All of the above.
+TypeError
+SyntaxError
+ZeroDivisionError
+TabError
+IndexError

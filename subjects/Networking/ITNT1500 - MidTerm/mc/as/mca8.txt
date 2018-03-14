@@ -1,0 +1,4 @@
+Class B, Private Address
+Class B, Public Address
+Class A, Private Address
+Class A, Public Address

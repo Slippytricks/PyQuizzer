@@ -1,0 +1,4 @@
+A basic map of how a program was designed to run used for reference while coding.
+A chart with deadline dates and what must be completed by then.
+A map of who will write which part of the program.
+A chart to show every single detail of how a program will be written.

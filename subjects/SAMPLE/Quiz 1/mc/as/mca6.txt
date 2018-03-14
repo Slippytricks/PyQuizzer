@@ -1,0 +1,4 @@
+They must be on the same line in their corresponding files(tfqs.txt/tfas.txt)
+It is on the same file.
+They are in the same folder.
+The lines do not have to be the same, the program just knows.

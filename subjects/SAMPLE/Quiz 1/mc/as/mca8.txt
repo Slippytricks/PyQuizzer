@@ -1,0 +1,4 @@
+Copy/paste the SAMPLE folder from/to subjects folder, then rename it.
+Create all files and folders manually.
+Create a subject folder with the subject and put questions there.
+Put all the questions in one subject folder.
